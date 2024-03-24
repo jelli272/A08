@@ -104,8 +104,8 @@ aside h2 {
     padding-bottom: .25em;
 }
 aside img {
-    width: 50%;
-    height: auto;
+    width: 100px;
+    height: 100px;
     padding-bottom: 1em;
 }
 /* the speakers styles for exercise 5-1 */
